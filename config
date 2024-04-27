@@ -62,8 +62,10 @@
     "<S-Esc>": { "type": "addon.toggle.enabled" }
   },
   "search": {
-    "default": "google",
+    "default": "startpage",
     "engines": {
+      "startpage": "https://www.startpage.com/",
+      "searx": "https://searx.be/",
       "google": "https://google.com/search?q={}",
       "yahoo": "https://search.yahoo.com/search?p={}",
       "bing": "https://www.bing.com/search?q={}",
