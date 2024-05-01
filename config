@@ -81,5 +81,7 @@
     "colorscheme": "system"
   },
   "blacklist": [
+    "github.com",
+    "chat.openai.com"
   ]
 }
