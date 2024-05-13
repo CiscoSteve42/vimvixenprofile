@@ -82,12 +82,7 @@
   },
   "blacklist": [
     "github.com",
-    "chatgpt.com"
-  ]
-}
-  "blacklist": [
-    "github.com",
     "chatgpt.com",
-    "reddit.com"
+    "www.reddit.com"
   ]
 }
