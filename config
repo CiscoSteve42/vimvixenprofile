@@ -82,6 +82,11 @@
   },
   "blacklist": [
     "github.com",
+    "chatgpt.com"
+  ]
+}
+  "blacklist": [
+    "github.com",
     "chat.openai.com"
   ]
 }
