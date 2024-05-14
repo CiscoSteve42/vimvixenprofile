@@ -83,6 +83,7 @@
   "blacklist": [
     "github.com",
     "chatgpt.com",
-    "www.reddit.com"
+    "www.reddit.com",
+    "docs.python.org"
   ]
 }
