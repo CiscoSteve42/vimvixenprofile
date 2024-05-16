@@ -86,5 +86,6 @@
     "www.reddit.com",
     "docs.python.org",
     "docs.github.com"
+    "192.168.0.135:8006"
   ]
 }
