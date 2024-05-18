@@ -64,8 +64,8 @@
   "search": {
     "default": "startpage",
     "engines": {
-      "startpage": "https://www.startpage.com/",
-      "searx": "https://searx.be/",
+      "startpage": "https://www.startpage.com/search?q={}",
+      "searx": "https://searx.be/?q={}",
       "google": "https://google.com/search?q={}",
       "yahoo": "https://search.yahoo.com/search?p={}",
       "bing": "https://www.bing.com/search?q={}",
@@ -85,7 +85,7 @@
     "chatgpt.com",
     "www.reddit.com",
     "docs.python.org",
-    "docs.github.com"
+    "docs.github.com",
     "192.168.0.135:8006"
   ]
 }
