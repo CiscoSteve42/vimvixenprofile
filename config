@@ -86,6 +86,9 @@
     "www.reddit.com",
     "docs.python.org",
     "docs.github.com",
-    "192.168.0.135:8006"
+    "192.168.0.135:8006",
+    "boot.dev",
+    "leetcode.com/problemset/"    "boot.dev",
+    "leetcode.com/problemset/"
   ]
 }
